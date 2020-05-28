@@ -1,0 +1,37 @@
+{
+  "name": "gridtree",
+  "version": "0.0.1",
+  "description": "GridTree web component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameslan/gridtree.git"
+  },
+  "keywords": [
+    "web component"
+  ],
+  "author": "James Lan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jameslan/gridtree/issues"
+  },
+  "homepage": "https://github.com/jameslan/gridtree#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@storybook/web-components": "^5.3.18",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
+    "@typescript-eslint/parser": "^2.34.0",
+    "babel-loader": "^8.1.0",
+    "eslint": "^7.0.0",
+    "lit-element": "^2.3.1",
+    "typescript": "^3.9.2"
+  },
+  "peerDependencies": {
+    "lit-element": "^2.3.1"
+  }
+}

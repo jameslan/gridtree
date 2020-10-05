@@ -22,14 +22,15 @@
   },
   "homepage": "https://github.com/jameslan/gridtree#readme",
   "devDependencies": {
-    "@babel/core": "^7.9.6",
-    "@storybook/web-components": "^5.3.18",
-    "@typescript-eslint/eslint-plugin": "^2.34.0",
-    "@typescript-eslint/parser": "^2.34.0",
+    "@babel/core": "^7.11.6",
+    "@storybook/web-components": "^6.0.21",
+    "@typescript-eslint/eslint-plugin": "^4.1.0",
+    "@typescript-eslint/parser": "^4.1.0",
     "babel-loader": "^8.1.0",
-    "eslint": "^7.0.0",
-    "lit-element": "^2.3.1",
-    "typescript": "^3.9.2"
+    "bs-platform": "^8.2.0",
+    "eslint": "^7.9.0",
+    "lit-element": "^2.4.0",
+    "typescript": "^4.0.2"
   },
   "peerDependencies": {
     "lit-element": "^2.3.1"

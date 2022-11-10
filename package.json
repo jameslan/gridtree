@@ -1,0 +1,20 @@
+{
+  "name": "gridtree",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "esy": {},
+  "scripts": { "setup": "npm install -g esy" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameslan/gridtree.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": { "url": "https://github.com/jameslan/gridtree/issues" },
+  "homepage": "https://github.com/jameslan/gridtree#readme",
+  "devDependencies": {
+    "ocaml": "^4.14.0",
+    "@opam/dune": "3.5.0"
+  }
+}
